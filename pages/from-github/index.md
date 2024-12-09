@@ -16,4 +16,14 @@ This is the third page for Remote Content Example.
 ### Example
 ### Example2
 ### Third Example
-### [Fourth Example](http://www.fourthexample.com) 
+### [Fourth Example](http://www.fourthexample.com)
+
+```c++
+package main
+
+import "core:fmt"
+
+main :: proc() {
+    fmt.println("hey")
+}
+```
