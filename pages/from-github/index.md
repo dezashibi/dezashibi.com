@@ -18,7 +18,7 @@ This is the third page for Remote Content Example.
 ### Third Example
 ### [Fourth Example](http://www.fourthexample.com)
 
-```c++
+```c
 package main
 
 import "core:fmt"
